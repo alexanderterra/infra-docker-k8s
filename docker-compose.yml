@@ -1,0 +1,7 @@
+services:
+  api:
+    build: ./ai-service-fastapi
+    ports:
+      - "8000:8000"
+  rabbitmq:
+    image: rabbitmq:3-management
