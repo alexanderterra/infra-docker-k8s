@@ -1,5 +1,5 @@
 # infra-docker-k8s
-Infra - Docker + Kubernetes
+Infra - Docker + Kubernetes Microservice
 
 ## Tecnologies
 - Docker
